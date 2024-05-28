@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  background-image: url("../header.jpg");
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 20px;
+}
+.title {
+  max-width: 450px;
+}
+.info {
+  max-width: 225px;
+}
+.authorimage {
+  width: 25px;
+  height: 25px;
+  background-color: blue;
+  border-radius: 99999px;
+}
+.author,
+.date {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

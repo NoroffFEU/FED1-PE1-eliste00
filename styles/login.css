@@ -1,0 +1,11 @@
+form {
+  padding: 25px 50px 75px 100px;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: "Inter;" "Arial Narrow Bold", sans-serif;
+  min-width: width 40px;
+  min-height: height 50px;
+  display: flex;
+  background-color: #d0d3da;
+  margin: 40px;
+}
